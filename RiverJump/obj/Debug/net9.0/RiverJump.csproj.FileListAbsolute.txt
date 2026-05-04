@@ -1,0 +1,74 @@
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\Content.mgcb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\tile1.png
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\tile2.png
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\RiverJump.exe
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\RiverJump.deps.json
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\RiverJump.runtimeconfig.json
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\RiverJump.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\RiverJump.pdb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\MonoGame.Framework.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\NVorbis.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\mgcb.tool.restore
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.csproj.Up2Date
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\refint\RiverJump.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.pdb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.genruntimeconfig.cache
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\ref\RiverJump.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\hero.png
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\Content\Content.mgcb
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\Content\hero.png
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\Content\tile1.png
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\Content\tile2.png
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\RiverJump.exe
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\RiverJump.deps.json
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\RiverJump.runtimeconfig.json
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\RiverJump.dll
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\RiverJump.pdb
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\MonoGame.Framework.dll
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\NVorbis.dll
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\android-arm\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\android-arm64\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\android-x64\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\android-x86\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\ios-arm64\native\libopenal.a
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\iossimulator-arm64\native\libopenal.a
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\iossimulator-x64\native\libopenal.a
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\linux-arm64\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\linux-x64\native\libopenal.so
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\osx\native\libopenal.dylib
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\win-x64\native\openal.dll
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\osx\native\libSDL2-2.0.0.dylib
+I:\Git Dosyalarim\riverjump\RiverJump\bin\Debug\net9.0\runtimes\win-x64\native\SDL2.dll
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\mgcb.tool.restore
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.csproj.AssemblyReference.cache
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.GeneratedMSBuildEditorConfig.editorconfig
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.AssemblyInfoInputs.cache
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.AssemblyInfo.cs
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.csproj.CoreCompileInputs.cache
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.csproj.Up2Date
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.dll
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\refint\RiverJump.dll
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.pdb
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\RiverJump.genruntimeconfig.cache
+I:\Git Dosyalarim\riverjump\RiverJump\obj\Debug\net9.0\ref\RiverJump.dll
