@@ -300,11 +300,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Git Dosyalarim\\riverjump\\RiverJump\\RiverJump.csproj",
+      "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\RiverJump_MonoGame\\RiverJump\\RiverJump.csproj",
       "projectName": "RiverJump",
-      "projectPath": "I:\\Git Dosyalarim\\riverjump\\RiverJump\\RiverJump.csproj",
+      "projectPath": "C:\\Users\\DESKTOP\\Desktop\\RiverJump_MonoGame\\RiverJump\\RiverJump.csproj",
       "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
-      "outputPath": "I:\\Git Dosyalarim\\riverjump\\RiverJump\\obj\\",
+      "outputPath": "C:\\Users\\DESKTOP\\Desktop\\RiverJump_MonoGame\\RiverJump\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config"

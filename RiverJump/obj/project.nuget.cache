@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+G6LUw82Sg=",
+  "dgSpecHash": "YlvIQ2W/tPI=",
   "success": true,
-  "projectFilePath": "I:\\Git Dosyalarim\\riverjump\\RiverJump\\RiverJump.csproj",
+  "projectFilePath": "C:\\Users\\DESKTOP\\Desktop\\RiverJump_MonoGame\\RiverJump\\RiverJump.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DESKTOP\\.nuget\\packages\\monogame.content.builder.task\\3.8.4.1\\monogame.content.builder.task.3.8.4.1.nupkg.sha512",
     "C:\\Users\\DESKTOP\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.4.1\\monogame.framework.desktopgl.3.8.4.1.nupkg.sha512",

@@ -11,6 +11,7 @@ public static class Globals
     public static SpriteBatch SpriteBatch {get; set;}
     public static GraphicsDevice GraphicsDevice {get; set;}
     public static Microsoft.Xna.Framework.Point WindowSize {get; set;}
+    public static Viewport Viewport {get; set;}
 
     public static void Update(GameTime gt)
     {
