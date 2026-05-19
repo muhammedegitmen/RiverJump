@@ -44,7 +44,7 @@ public class Game1 : Game
             Exit();
         
         Globals.Update(gameTime);
-        _gameManager.Update();
+        _gameManager.Update(gameTime);
 
         // TODO: Add your update logic here
 
@@ -55,7 +55,7 @@ public class Game1 : Game
     {
         GraphicsDevice.Clear(Color.SkyBlue);
 
-        _gameManager.Draw();
+        _gameManager.Draw(gameTime);
 
         // TODO: Add your drawing code here
 

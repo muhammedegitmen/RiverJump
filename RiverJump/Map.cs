@@ -14,6 +14,7 @@ public class Map
     public static readonly int TILE_SIZE = 128;
     public static int[,] TILES;
     public Vector2 playerSpawn;
+    public float winThreshold;
 
     private static Rectangle[,] Colliders;
     public Map(int levelIndex)
@@ -43,6 +44,11 @@ public class Map
                 if (TILES[x,y] == -1)
                 {
                     playerSpawn = new(y * TILE_SIZE, x * TILE_SIZE);
+                    continue;
+                }
+                if (TILES[x,y] == -2)
+                {
+                    winThreshold = y * TILE_SIZE;
                     continue;
                 }
 
