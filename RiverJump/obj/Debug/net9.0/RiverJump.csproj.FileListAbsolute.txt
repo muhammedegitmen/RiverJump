@@ -41,3 +41,15 @@ C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\refint\Ri
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.pdb
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\RiverJump.genruntimeconfig.cache
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\obj\Debug\net9.0\ref\RiverJump.dll
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\button.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\Fin.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\font.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\hero.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\jumpShroom.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\tile1.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\tile2.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\wave.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\.mgstats
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\ResponseFile.txt
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\fontBig.xnb
+C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\fontBig.spritefont

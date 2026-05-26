@@ -1,0 +1,13 @@
+# Directories
+/outputDir:bin/Content
+/intermediateDir:obj/Content
+
+/rebuild
+
+# Build a texture
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyEnabled=false
+/build:Content\tile1.png
+/build:Content\tile2.png
+/build:Content\hero.png

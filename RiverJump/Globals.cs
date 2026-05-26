@@ -6,7 +6,8 @@ namespace RiverJump;
 
 public static class Globals
 {
-    public static float Time{get; set;}
+    public static float Time {get; set;}
+    public static Game1 Game {get; set;}
     public static ContentManager Content {get; set;}
     public static SpriteBatch SpriteBatch {get; set;}
     public static GraphicsDevice GraphicsDevice {get; set;}

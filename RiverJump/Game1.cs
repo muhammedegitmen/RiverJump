@@ -18,6 +18,7 @@ public class Game1 : Game
 
     protected override void Initialize()
     {
+        Globals.Game = this;
         Globals.WindowSize = new(1024,1024);//new(Map.TILES.GetLength(1) * Map.TILE_SIZE, Map.TILES.GetLength(0) * Map.TILE_SIZE);
         Globals.Viewport = new(0, 0, Globals.WindowSize.X, Globals.WindowSize.Y);
         _graphics.PreferredBackBufferWidth = Globals.WindowSize.X;
@@ -34,7 +35,8 @@ public class Game1 : Game
     {
         Globals.SpriteBatch = new SpriteBatch(GraphicsDevice);
         Globals.GraphicsDevice = GraphicsDevice;
-        _gameManager = new();
+        
+        NewGame();
         // TODO: use this.Content to load your game content here
     }
 
@@ -60,5 +62,10 @@ public class Game1 : Game
         // TODO: Add your drawing code here
 
         base.Draw(gameTime);
+    }
+
+    public void NewGame()
+    {
+        _gameManager = new();
     }
 }

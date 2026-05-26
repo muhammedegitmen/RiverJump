@@ -14,7 +14,7 @@ public class Sprite
         this.position = position;
     }
 
-    public void Draw()
+    public virtual void Draw()
     {
         Globals.SpriteBatch.Draw(Texture, position, Color.White);
     }
