@@ -53,3 +53,11 @@ C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\.
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\ResponseFile.txt
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\fontBig.xnb
 C:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\fontBig.spritefont
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\croclose.xnb
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\crocopen.xnb
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\croclose.png
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\crocopen.png
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\croclose.png~
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\crocopen.png~
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\LevelMap_1.csv
+c:\Users\DESKTOP\Desktop\RiverJump_MonoGame\RiverJump\bin\Debug\net9.0\Content\LevelMap_2.csv

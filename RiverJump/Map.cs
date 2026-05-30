@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
 using System.IO;
-using System.Linq;
-using System.Text.Json;
 
 namespace RiverJump;
 
@@ -17,9 +15,10 @@ public class Map
     public float winThreshold;
 
     private static Rectangle[,] Colliders;
-    public Map(int levelIndex)
+    public Map(int levelIndex, out Component[] additions)
     {
         TILES = ConvertCsvToIntMatrix($"Content/LevelMap_{levelIndex}.csv");
+        System.Collections.Generic.List<Component> _additions = new();
         
         _target = new(Globals.GraphicsDevice, TILES.GetLength(1) * TILE_SIZE, TILES.GetLength(0) * TILE_SIZE);
 
@@ -29,6 +28,10 @@ public class Map
             Globals.Content.Load<Texture2D>("tile2"),
             Globals.Content.Load<Texture2D>("jumpShroom")
         ];
+
+        var croclose = Globals.Content.Load<Texture2D>("croclose");
+        var crocopen = Globals.Content.Load<Texture2D>("crocopen");
+        Crocodile croc;
 
         Globals.GraphicsDevice.SetRenderTarget(_target);
         Globals.GraphicsDevice.Clear(Color.Transparent);
@@ -40,15 +43,28 @@ public class Map
         {
             for (int y = 0; y < TILES.GetLength(1); y++)
             {
-                if (TILES[x,y] == 0) continue;
-                if (TILES[x,y] == -1)
+                if (TILES[x,y] == 0) continue;  // emptiness
+                if (TILES[x,y] == -1)   // player spawn
                 {
                     playerSpawn = new(y * TILE_SIZE, x * TILE_SIZE);
                     continue;
                 }
-                if (TILES[x,y] == -2)
+                if (TILES[x,y] == -2) // finish line
                 {
                     winThreshold = y * TILE_SIZE;
+                    continue;
+                }
+                if (TILES[x,y] == 4)    // crocodile
+                {
+                    var _posX = (y * TILE_SIZE) + ((TILE_SIZE - crocopen.Bounds.Width) * .5f);
+                    var _posY = (x * TILE_SIZE) + (TILE_SIZE - crocopen.Bounds.Height);
+
+                    var rect = new Rectangle((int)_posX, _posY, crocopen.Bounds.Width, crocopen.Bounds.Height);
+                    Colliders[x, y] = rect;
+
+                    croc = new Crocodile(crocopen, croclose, new Vector2(_posX , _posY), rect);
+                    croc.UI = false;
+                    _additions.Add(croc);
                     continue;
                 }
 
@@ -64,6 +80,8 @@ public class Map
 
         Globals.SpriteBatch.End();
         Globals.GraphicsDevice.SetRenderTarget(null);
+
+        additions = _additions.ToArray();
     }
     private static int[,] ConvertCsvToIntMatrix(string filePath)
     {
@@ -121,5 +139,11 @@ public class Map
     public void Draw()
     {
         Globals.SpriteBatch.Draw(_target, Vector2.Zero, Color.White);
+    }
+
+    public void DeleteCollision(Vector2 Position)
+    {
+        Map.TILES[(int)Position.X, (int)Position.Y] = 0;
+        Map.Colliders[(int)Position.X, (int)Position.Y] = default;
     }
 }

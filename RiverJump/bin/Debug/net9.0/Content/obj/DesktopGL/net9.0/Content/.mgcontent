@@ -5,6 +5,8 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/button.png</File>
+    <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/croclose.png</File>
+    <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/crocopen.png</File>
     <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/Fin.png</File>
     <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/font.spritefont</File>
     <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/fontBig.spritefont</File>
@@ -15,6 +17,8 @@
     <File>C:/Users/DESKTOP/Desktop/RiverJump_MonoGame/RiverJump/bin/Debug/net9.0/Content/wave.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />

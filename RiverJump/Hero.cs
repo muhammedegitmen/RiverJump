@@ -51,6 +51,7 @@ public class Hero(Texture2D texture, Vector2 position) : Sprite(texture, positio
                 if (newRect.Intersects(collider.Item1))
                 {
                     if (oldRect.Intersects(collider.Item1) || (_velocity.Y <= 0 && collider.Item2 == 2)) continue;
+                    if ((position.Y >= collider.Item1.Top) && collider.Item2 == 4) Eaten();
                     if (newPos.X > position.X) newPos.X = collider.Item1.Left - Texture.Width + OFFSET;
                                           else newPos.X = collider.Item1.Right - OFFSET;
                     continue;
@@ -69,6 +70,23 @@ public class Hero(Texture2D texture, Vector2 position) : Sprite(texture, positio
                     {
                         _velocity.Y = -JUMP * 1.5f;
                     }
+                    else if (collider.Item2 == 4)
+                    {
+                        _velocity.Y = -JUMP * 0.75f;
+                        var _Position = new Vector2(collider.Item1.X, collider.Item1.Y);
+                        Texture2D tex = null;
+                        
+                        Globals.Game._gameManager.DeleteComponent((c) =>
+                        {
+                            if ((c as Crocodile) != null && (c as Crocodile).Position == _Position)
+                                { tex = (c as Crocodile).Open; return true; }
+                            
+                            return false;
+                        });
+                        if (tex != null) Globals.Game._gameManager._map.DeleteCollision(new Vector2(
+                            (_Position.Y - ((Map.TILE_SIZE - tex.Bounds.Width) * .5f)) / Map.TILE_SIZE,
+                            (_Position.X - (Map.TILE_SIZE - tex.Bounds.Height)) / Map.TILE_SIZE));
+                    }
                     else
                     {
                         _onGround = true;
@@ -78,6 +96,10 @@ public class Hero(Texture2D texture, Vector2 position) : Sprite(texture, positio
                 else
                 {
                     if (collider.Item2 == 2) continue;
+                    if (collider.Item2 == 4)
+                    // Crocodile eats
+                        Eaten();
+
                     newPos.Y = collider.Item1.Bottom;
                     _velocity.Y = 0;
                 }
@@ -92,4 +114,6 @@ public class Hero(Texture2D texture, Vector2 position) : Sprite(texture, positio
         UpdateVelocity();
         UpdatePosition();
     }
+
+    private void Eaten() { Globals.Game._gameManager.Losing(); return; }
 }

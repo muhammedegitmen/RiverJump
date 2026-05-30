@@ -7,7 +7,7 @@ namespace RiverJump;
 public class Game1 : Game
 {
     private GraphicsDeviceManager _graphics;
-    private GameManager _gameManager;
+    public GameManager _gameManager;
 
     public Game1()
     {
