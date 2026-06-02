@@ -1,0 +1,14 @@
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\bin\Debug\net8.0-windows\RiverJump.exe
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\bin\Debug\net8.0-windows\RiverJump.deps.json
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\bin\Debug\net8.0-windows\RiverJump.runtimeconfig.json
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\bin\Debug\net8.0-windows\RiverJump.dll
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\bin\Debug\net8.0-windows\RiverJump.pdb
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.AssemblyInfoInputs.cache
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.AssemblyInfo.cs
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.csproj.CoreCompileInputs.cache
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.dll
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\refint\RiverJump.dll
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.pdb
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\RiverJump.genruntimeconfig.cache
+C:\Users\muham\Documents\Codex\2026-06-02\files-mentioned-by-the-user-gm2\outputs\river-jump-csharp\obj\Debug\net8.0-windows\ref\RiverJump.dll
